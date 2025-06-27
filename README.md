@@ -8,7 +8,8 @@
   <li>Renaming</li>
   <li>DataFrame Transformation</li>
   <li>Cleaning null values</li>
-  <li>Drpping missing value, Filtering country by missing value, Dropping nan features</li>
+  <li>Filtering country by missing value</li>
+  <li>Dropping nan features</li>
 </ul>
 
 # Step 2
