@@ -9,7 +9,7 @@
   <li>DataFrame Transformation</li>
   <li>Cleaning null values</li>
   <li>Filtering country by missing value</li>
-  <li>Dropping nan features</li>
+  <li>Dropping NAN features</li>
 </ul>
 
 # Step 2
