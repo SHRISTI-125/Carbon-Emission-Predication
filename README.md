@@ -1,4 +1,4 @@
-<h1>Carbon Emission Prediction
+<h1>Carbon Emission Prediction 🧐
 </h1>
 
 # Step 1 
