@@ -6,13 +6,13 @@
     <h2>📁 Project Structure</h2>
     <pre>
 carbon-emission-prediction/
-├── Cleaned_data/           # Cleaned data
-├── Analysis.ipynb          # EDA and modeling notebooks
-├── RandomForest_Model      # Model training script
-├── streamlit_app.py        # Interactive UI
-├── rf_model.py             # Saved model (.pkl)
-├── requirements.txt        # Dependencies
-└── README.html             # This project page
+├── Cleaned_data/               # Cleaned data
+├── Analysis.ipynb              # EDA and modeling notebooks
+├── RandomForest_Model.ipyb     # Model training script
+├── streamlit_app.py            # Interactive UI
+├── carbon_model.pkl            # Saved model (.pkl)
+├── requirements.txt            # Dependencies
+└── README.md                   # This project page
     </pre>
   </div>
 
