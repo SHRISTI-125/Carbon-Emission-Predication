@@ -98,6 +98,10 @@ carbon-emission-prediction/
     <p>👉<a href="https://github.com/SHRISTI-125/Carbon-Emission-Predication" target="_blank"> View Project on GitHub</a></p>
   </div>
 
+  <div class="section">
+    <h2>✍️ Author : Shristi Kumari</h2>
+  </div>
+
 </body>
 </html>
 
