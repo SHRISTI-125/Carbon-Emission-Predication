@@ -49,7 +49,7 @@ carbon-emission-prediction/
 
   <div class="section">
     <h3>📸 Streamlit Project Demo</h3>
-    <a href="">CARBON EMISSION PREDICTION</a>
+    <a href="https://carbon-emission-prediction-by-shr.streamlit.app/">CARBON EMISSION PREDICTION</a>
     <h2>💻 Setup Instructions</h2>
     <ol>
       <li>Clone the repository:
@@ -84,12 +84,12 @@ carbon-emission-prediction/
 
   <div class="section">
     <h2>📈 Example Output</h2>
-    <img src="images/img1.png" alt="Actual vs Predicted" width="500" />
+    <img src="image/img1.png" alt="Actual vs Predicted" width="500" />
   </div>
 
   <div class="section">
     <h2>📂 Dataset Source</h2>
-    <p>Get the data here <a href="">data</a></p>
+    <p>Get the data here <a href="https://github.com/SHRISTI-125/Carbon-Emission-Predication/blob/main/Cleaned_data.csv">data</a></p>
   </div>
 
 
